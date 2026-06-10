@@ -23,9 +23,11 @@
   <string name="wallet_edit_title">新的预算</string>
   <string name="select_finish_date_title">选择结束日期</string>
   <plurals name="finish_date_label">
+    <item quantity="one">截至 %1$s（%2$s 天）</item>
     <item quantity="other">截至 %1$s（%2$s 天）</item>
   </plurals>
   <plurals name="days_count">
+    <item quantity="one">%1$s 天</item>
     <item quantity="other">%1$s 天</item>
   </plurals>
   <string name="export_to_csv">导出至 CSV</string>
